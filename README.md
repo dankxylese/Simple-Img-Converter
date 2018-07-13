@@ -2,7 +2,7 @@
 ## What?
 Easily resize/compress images
 
-##Requirements
+##Requirements.
 Have a folder named "raw" with the images you want to downscale/compress
 
 PIL. In terminal:
