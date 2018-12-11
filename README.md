@@ -9,4 +9,5 @@ PIL. In terminal:
 
 ## How?
 Find k, that is your image size (e.g. if you want to half it, lower the value of k to 0.5).  
+Find quality in foo.save, that is the quality of the compression. If you want to just downscale, set quality to 100  
 Optimize tag is to further reduce the size.
